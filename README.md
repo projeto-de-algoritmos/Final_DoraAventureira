@@ -14,9 +14,9 @@ Matrícula | Aluno |
 O projeto tem o objetivo de entregar visualização de alguns algoritmos aplicados a encontrar caminhos mais proximos. Aqui nós implementamos a busca pos Djikstra e DFS.
 
 ## Screenshots
-![alt text](./1.jpg)
-![alt text](./2.jpg)
-![alt text](./3.jpg)
+![alt text](./1.jpeg)
+![alt text](./2.jpeg)
+![alt text](./3.jpeg)
 
 ## Instalação 
 **Linguagem**: TypeScript<br>
