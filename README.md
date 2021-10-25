@@ -11,15 +11,17 @@ Matrícula | Aluno |
 | 16/0132550  |  Lorrany Azevedo |
 
 ## Sobre 
-O projeto tem o objetivo de entregar visualização de alguns algoritmos aplicados a encontrar caminhos mais proximos. 
+O projeto tem o objetivo de entregar visualização de alguns algoritmos aplicados a encontrar caminhos mais proximos. Aqui nós implementamos a busca pos Djikstra e DFS.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![alt text](./1.jpg)
+![alt text](./2.jpg)
+![alt text](./3.jpg)
 
 ## Instalação 
 **Linguagem**: TypeScript<br>
 **Framework**: React<br>
-Para rodar o projeto, é preciso possuir React instalado.
+Para rodar o projeto, é preciso possuir React e o TypeScript instalados.
 
 ## Uso 
 Para rodar o projeto siga as instruções abaixo:
@@ -28,6 +30,7 @@ cd Final_DoraAventureira/pathfinder
 yarn install
 yarn start
 ```
+Caso falte algum pacote necessário para a execução basta rodar yarn add {nome_do_pacote}.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
